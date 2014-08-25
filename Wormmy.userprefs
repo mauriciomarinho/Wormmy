@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scenes/Intro.cs">
+    <Files>
+      <File FileName="Game1.cs" Line="93" Column="33" />
+      <File FileName="Engine/Engine.cs" Line="1" Column="1" />
+      <File FileName="Scenes/Intro.cs" Line="23" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Wormmy" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Content" expanded="True">
+              <Node name="Image" expanded="True" />
+              <Node name="Video" expanded="True" />
+            </Node>
+            <Node name="Engine" expanded="True" />
+            <Node name="Properties" expanded="True" />
+            <Node name="Scenes" expanded="True">
+              <Node name="Intro.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
